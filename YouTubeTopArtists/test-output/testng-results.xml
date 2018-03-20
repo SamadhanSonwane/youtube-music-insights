@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="YouTubeForArtists" duration-ms="138479" started-at="2018-03-19T22:36:52Z" finished-at="2018-03-19T22:39:11Z">
+    <groups>
+    </groups>
+    <test name="extractTopArtistInfo" duration-ms="138479" started-at="2018-03-19T22:36:52Z" finished-at="2018-03-19T22:39:11Z">
+      <class name="tests.ExtractArtistInfo">
+        <test-method status="PASS" signature="readAnnualArtistInfo()[pri:0, instance:tests.ExtractArtistInfo@1500955a]" name="readAnnualArtistInfo" duration-ms="138438" started-at="2018-03-19T18:36:52Z" finished-at="2018-03-19T18:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAnnualArtistInfo -->
+      </class> <!-- tests.ExtractArtistInfo -->
+    </test> <!-- extractTopArtistInfo -->
+  </suite> <!-- YouTubeForArtists -->
+</testng-results>
